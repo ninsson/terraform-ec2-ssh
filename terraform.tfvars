@@ -1,0 +1,5 @@
+aws_region    = "eu-west-1"
+vpc_name      = "cmtr-ow2fu6rh-vpc"
+sg_name       = "cmtr-ow2fu6rh-sg"
+key_pair_name = "cmtr-ow2fu6rh-keypair"
+instance_name = "cmtr-ow2fu6rh-ec2"
